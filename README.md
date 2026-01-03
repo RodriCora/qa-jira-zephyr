@@ -6,9 +6,9 @@ Este repositorio contiene documentación, ejemplos y recursos para facilitar la 
 
 Aquí abajo podés ver algunas imágenes relacionadas con el proyecto:
 
-![Backlog](Backlog.png)  
-![EjemploFeature](EjemploFeature.png)  
-![Zephyr](Zephyr.png)  
+![Backlog](Backlog.PNG)  
+![EjemploFeature](EjemploFeature.PNG)  
+![Zephyr](Zephyr.PNG)
 
 ## Descripción
 
